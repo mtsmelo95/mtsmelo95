@@ -1,6 +1,4 @@
-Aqui está um exemplo de um README para o seu GitHub com as informações que você forneceu:
 
----
 
 # Olá, sou Matheus Melo 👋
 
@@ -8,7 +6,7 @@ Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e respons
 
 ### Tecnologias que domino:
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,16 +24,7 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 
 ### Minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MatheusMelo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-MatheusMelo-black?style=for-the-badge&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MatheusMelo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![Portifólio] (https://matheusmelodev.com.br)
 
 ---
-
-### Meu jogo da cobrinha 🎮
-
-Clique na imagem abaixo para jogar!  
-[![Snake Game](https://img.shields.io/badge/Play%20Snake%20Game-%232F8F46.svg?style=for-the-badge&logo=snake)](https://play.google.com)
-
----
-
-Você pode personalizar o link do jogo ou a URL da sua rede social conforme necessário.
