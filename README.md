@@ -6,7 +6,7 @@ Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e respons
 
 ### Tecnologias que domino:
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 
 ### Minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MatheusMelo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![Portifólio] (https://matheusmelodev.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MatheusMelo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-matheusmelodev.com.br-black?style=for-the-badge&logo=website)](https://matheusmelodev.com.br)
 
 ---
