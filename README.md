@@ -20,7 +20,7 @@ Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e respons
 
 Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me aperfeiçoar na área de desenvolvimento frontend. No meu tempo livre, gosto de programar pequenos jogos e explorar o mundo da tecnologia.
 
-(https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png)
+[ALT](https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png)
 
 ---
 
