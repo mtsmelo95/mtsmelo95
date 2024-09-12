@@ -20,8 +20,6 @@ Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e respons
 
 Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me aperfeiçoar na área de desenvolvimento frontend. No meu tempo livre, gosto de programar pequenos jogos e explorar o mundo da tecnologia.
 
-![Uploading image.png…]()
-
 ---
 
 ### Minhas redes:
