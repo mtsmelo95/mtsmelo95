@@ -28,3 +28,5 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 [![Portfólio](https://img.shields.io/badge/Portfólio-matheusmelodev.com.br-black?style=for-the-badge&logo=website)](https://matheusmelodev.com.br)
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUNOMEDEUSUARIO&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,FFF,D6DAFF&border_color=FFF&text_color=000&theme=jolly)
