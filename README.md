@@ -1,4 +1,5 @@
-# Olá, sou Matheus Melo 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Matheus Melo and my nickname is "Melo"!
 
 Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e responsivas. Possuo habilidades em diversas tecnologias modernas e gosto de aprender constantemente para melhorar minhas entregas. 🚀
 
@@ -22,11 +23,18 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 
 ---
 
+![Snake animation](https://github.com/mtsmelo95/mtsmelo95/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### Minhas redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MatheusMelo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
 [![Portfólio](https://img.shields.io/badge/Portfólio-matheusmelodev.com.br-black?style=for-the-badge&logo=website)](https://matheusmelodev.com.br)
 
+<div>
+<a href="https://instagram.com/mtsmelo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@mtsmelo95"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://matheusmelodev.com.br" target="_blank"><img loading="lazy" target="_blank"></a>   
+</div>
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUNOMEDEUSUARIO&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,FFF,D6DAFF&border_color=FFF&text_color=000&theme=jolly)
