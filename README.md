@@ -1,7 +1,7 @@
 
 
 # 👋 Hello! Welcome to my Github profile.
-## My name is Matheus Melo and my nickname is "Melo"!
+## Meu nome é Matheus Melo, mas pode me chamar de Melo
 
 Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e responsivas. Possuo habilidades em diversas tecnologias modernas e gosto de aprender constantemente para melhorar minhas entregas. 🚀
 
