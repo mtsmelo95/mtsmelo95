@@ -37,5 +37,3 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 [![Portfólio](https://img.shields.io/badge/Portfólio-matheusmelodev.com.br-black?style=for-the-badge&logo=website)](https://matheusmelodev.com.br)
 
 ---
-
-![Snake animation](https://github.com/mtsmelo95/mtsmelo95/blob/output/github-contribution-grid-snake.svg)
