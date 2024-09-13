@@ -1,6 +1,4 @@
-Aqui está uma versão atualizada do seu README, com gifs, imagens e um board de commits personalizado para o seu perfil GitHub:
 
----
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Matheus Melo and my nickname is "Melo"!
@@ -39,15 +37,3 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 [![Portfólio](https://img.shields.io/badge/Portfólio-matheusmelodev.com.br-black?style=for-the-badge&logo=website)](https://matheusmelodev.com.br)
 
 ---
-
-### Meu GitHub:
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmelo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmelo&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusmelo&theme=radical)
-
----
-
-Com essas adições, seu perfil terá um toque mais visual e dinâmico. Você pode ajustar as cores do tema para combinar melhor com o estilo que preferir!
