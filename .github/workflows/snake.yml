@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: mtsmelo95/mtsmelo95
+          github_user_name: mtsmelo95
           outputs: dist/snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
