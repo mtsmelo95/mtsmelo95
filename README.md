@@ -29,6 +29,8 @@ Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e respons
 
 Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me aperfeiçoar na área de desenvolvimento frontend. No meu tempo livre, gosto de programar e explorar o mundo da tecnologia.
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsmelo95&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ### Minhas redes:
@@ -37,3 +39,4 @@ Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me a
 [![Portfólio](https://img.shields.io/badge/Portfólio-matheusmelodev.com.br-black?style=for-the-badge&logo=website)](https://matheusmelodev.com.br)
 
 ---
+
