@@ -5,10 +5,6 @@
 
 Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e responsivas. Possuo habilidades em diversas tecnologias modernas e gosto de aprender constantemente para melhorar minhas entregas. 🚀
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
 ### Tecnologias que domino:
 
 |                                                                          |                                                                           |
@@ -22,8 +18,6 @@ Sou desenvolvedor frontend com paixão por criar interfaces dinâmicas e respons
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
 ---
-
-![Developer at work](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ### Um pouco sobre mim:
 
