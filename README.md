@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Oi, seja bem vindo ao meu perfil do Github.
 ## Meu nome é Matheus Melo, mas pode me chamar de Melo
 
 Sou desenvolvedor fullstack com paixão por criar interfaces dinâmicas e responsivas. Possuo habilidades em diversas tecnologias modernas e gosto de aprender constantemente para melhorar minhas entregas. 🚀
@@ -14,14 +14,6 @@ Sou desenvolvedor fullstack com paixão por criar interfaces dinâmicas e respon
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=cloud&logoColor=white) |
-
----
-
-### Um pouco sobre mim:
-
-Sou entusiasta de tecnologia, sempre em busca de aprender novas técnicas e me aperfeiçoar na área de desenvolvimento frontend. No meu tempo livre, gosto de programar e explorar o mundo da tecnologia.
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtsmelo95&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
